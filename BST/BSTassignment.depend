@@ -1,0 +1,16 @@
+1608006056 source:C:\Users\manoj\Desktop\BST.c
+	<assert.h>
+	<stdint.h>
+	"bst.h"
+	<stdio.h>
+
+1608005869 C:\Users\manoj\Desktop\BST.h
+	<stdint.h>
+
+1608005843 source:C:\Users\manoj\Desktop\main.c
+	<stdio.h>
+	<stdlib.h>
+	<assert.h>
+	<stdint.h>
+	<stdlib.h>
+	"bst.h"
